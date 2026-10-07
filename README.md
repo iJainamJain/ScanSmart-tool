@@ -261,3 +261,8 @@ morphology → compression & export → application UI → OCR).
 
 For the current work-in-progress item and exactly what to do next, see
 [docs/NEXT_STEPS.md](docs/NEXT_STEPS.md).
+
+
+Project Contributor 
+Jainam Jain 
+Vivek Jaiswal
